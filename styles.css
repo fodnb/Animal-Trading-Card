@@ -1,0 +1,60 @@
+/* add your CSS here */
+
+* {
+	box-sizing: border-box;
+	margin: 0 auto;
+	border-radius: 2em;
+}
+
+body {
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+
+
+.interestingFact {
+	font-style: italic;
+	padding: 15px;
+}
+p {
+	padding: 15px;
+}
+
+ul {
+	list-style: none;
+}
+
+.label{
+	font-weight: bold;
+	width: 250px;
+}
+
+h3, img, .information {
+	border: 1px solid #DF631FFF;
+ 	padding: 10px;
+	display: block;
+	width: 100%;
+	margin-bottom: 10px;
+ }
+
+
+
+h3 {
+	text-align: center;
+	text-shadow: 3px 3px 8px #E21C25FF;
+	font-size: 25px;
+}
+
+.mainContent {
+	color: #e03333;
+	background-color: #211f20;
+	padding: 10%;
+}
+
+/*img {
+	width: 100%;
+	padding: 0;
+	border: 0;
+}*/
+
